@@ -1,0 +1,28 @@
+[{
+  "firstname":"AAA"
+  "height":180,
+  "email":"OOO@yahoo.com.tw",
+    "city":{
+    "通訊地址":"台北"
+    "戶籍地址":"桃園"
+    },
+    "phone":{
+    "市話":"OX_12345678",
+    "行動電話":"OX12-345678"
+    },
+  "cars":["ABC","DEF","GHI"]
+},
+{
+  "firstname":"BBB"
+  "height":170,
+  "email":"OOO@gmail.com",
+    "city":{
+    "通訊地址":"桃園"
+    "戶籍地址":"台北"
+    },
+    "phone":{
+    "市話":"OX_87654321",
+    "行動電話":"OX87-654321"
+    },
+  "cars":["GHI","DEF","ABC"]
+}]
